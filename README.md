@@ -13,47 +13,45 @@ I specialize in the full-cycle design, development, and implementation of Proces
 Extensive hands-on experience with equipment from world-leading brands:
 *   **Siemens:** SIMATIC S7-200, S7-1200/1500, TIA Portal
 *   **Allen-Bradley (Rockwell Automation):** ControlLogix, CompactLogix, MicroLogix, RSLogix 500/5000
-*   **Other Brands:** Omron, Mitsubishi Electric, WAGO
+*   **Other Brands:** Omron, Mitsubishi Electric, WAGO, DELTA, Crevis
 *   **Phoenix Contact:** PLCnext Technology (AXC F 2152, AXC F 3152 and ILC series)
 
 ### ⚡ Drives & VFDs
 
 Configuration, programming, and integration of Variable Frequency Drives (VFDs):
-*   **Danfoss:** VLT® AutomationDrive FC-300/600 series
+*   **Danfoss:** VLT® AutomationDrive FC-51 to FC-300 series
 *   **Siemens:** SINAMICS G120, S120, Micromaster series
-*   **Allen-Bradley:** PowerFlex 4, 40, 400, 525, 755 series
-*   **Vacon / Nidec:** Various series for industrial applications
 *   **Other Brands:** Mitsubishi Electric (FR series), EKF, VEDA (Prostar)
 
 ### 💻 Software & Tools Stack
 
 **PLC & Embedded Programming:**
-*   IEC 61131-3 languages (LD, FBD, ST, SFC, IL) in CODESYS, TIA Portal, RSLogix
-*   Low-level programming (C/C++, Assembler) for microcontrollers (Atmel, Arduino)
-*   Legacy systems: Pascal, Fortran
+*   IEC 61131-3 languages (LD, FBD, ST, SFC, IL) in CODESYS, TIA Portal, RSLogix, Eaton
+*   Low-level programming (C/C++, Assembler) for microcontrollers (Atmel, Arduino), STM, ESP
+*   Legacy systems: C++, Python
 
 **SCADA/HMI Development:**
-*   **Proprietary:** Wonderware InTouch, AVEVA System Platform, PCVue, TraceMode, MASTER-SCADA
-*   **Rockwell:** FactoryTalk View SE/ME, RSView32
-*   **Siemens:** WinCC (classic, TIA, Open Architecture)
-*   **Others:** Ignition, Citect, VTScada
+*   **Proprietary:** Wonderware InTouch, PCVue, TraceMode, MASTER-SCADA
+*   **Rockwell:** RSView32
+*   **Siemens:** WinCC (classic, TIA, Open Architecture), Unify
+*   **Others:**  Aggregate
 
 **Backend & Data:**
 *   **Languages:** Python (Django, FastAPI, NumPy, Pandas), PHP, experience with LLMs (Large Language Models)
-*   **Databases:** SQL (MySQL, PostgreSQL, MS SQL Server, Oracle)
-*   **Systems:** Docker, Windows OS (from 95/NT to 11), Linux/FreeBSD (administration)
+*   **Databases:** SQL (MySQL, PostgreSQL, MS SQL Server)
+*   **Systems:** Docker, Windows OS (from 95/NT to 11), Linux/FreeBSD (administration), Virtual system
 
 **Networking & Infrastructure:**
-*   Industrial networks (Profibus, Profinet, EtherNet/IP, Modbus TCP/RTU)
+*   Industrial networks (Profibus, Profinet, EtherNet/IP, EtherCAT, CANx, Modbus TCP/RTU)
 *   MikroTik certifications (MTCNA, MTCRE) — routing, building resilient Wi-Fi networks
 *   Server and PC assembly/administration
 
 ### 🚀 Key Experience & Projects
 
-*   **Marine Systems:** Development and integration of automation systems (IAS, FSS) based on **Samsung S&Sys** and **Kongsberg** solutions.
-*   **Trawl Systems:** Programming and commissioning of complex fishing systems.
-*   **Fire Alarm Systems (FAS):** Design and commissioning of fire automation systems.
-*   **Computer Vision:** Experience with image processing and neural networks for industrial analytics.
+*   **Marine Systems:** Development, integration and Service of automation systems (IAS, FSS) based on **Samsung S&Sys** and **Kongsberg** solutions.
+*   **Trawl Systems:** Commissioning of complex fishing systems.
+*   **Fire Alarm Systems (FAS):** Consilium.
+*   **Computer Vision:** Experience with image processing and neural networks for industry - Hikrobot.
 *   **Full-Cycle Projects:** From technical specification and equipment selection to programming, commissioning, and turnkey delivery.
 
 ### 📊 GitHub Stats
